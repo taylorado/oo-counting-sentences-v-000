@@ -18,4 +18,4 @@ class String
     newArray = (self.split(".", "?", "!")
     newArray.count
   end
-end
+#end
