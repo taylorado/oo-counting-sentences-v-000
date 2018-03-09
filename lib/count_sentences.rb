@@ -16,6 +16,6 @@ class String
 
   def count_sentences
     newArray = (self.split(".", "?", "!")
-    return newArray.count
+    newArray.count
   end
 end
